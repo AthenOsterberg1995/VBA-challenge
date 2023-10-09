@@ -1,6 +1,8 @@
 # VBA-challenge
  VBA challenge assignment
 
+To execute the code, run the SetWorkbookValues() subroutine.
+
 Both the VBAChallengeCode.vb and Both the VBAChallengeCode.vbs have the same code. The editor I used automatically saved it as .vb but I thought the file type needed was .vbs so I uploaded both file types with the same code.
 
 For the screenshots, I took screenshots of the start and end of the output on each year.
